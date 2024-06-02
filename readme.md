@@ -34,4 +34,8 @@ As you saw, this folder was not there earlier, and you also didn't created it ex
 #### What is `package-lock-json`?
 In package-lock-json file all of the detailed dedicated dependencies are going to be present.
 
-## Note: Once you start building your project your going to install a lot of dependencies, and if you install a lot of dependencies a lot thing will get downloaded in your node modules folder, So this node module folder will become very heavy, So when we upload our project on github we don't upload the node modules folder.  
+## Note: Once you start building your project you are going to install a lot of dependencies, and if you install a lot of dependencies, a lot of things will get downloaded in your node modules folder, So this node module folder will become very heavy, So when we upload our project on github we don't upload the node modules folder.  
+
+### Before starting the project, let's learn What is an API?
+
+- API stands for Application package interface.
